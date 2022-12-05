@@ -1,0 +1,25 @@
+{
+  "name": "ricks-against-humanity",
+  "version": "0.0.1",
+  "description": "rick and morty themed cards against humanity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guerillajay/ricks-against-humanity.git"
+  },
+  "author": "Guerilla Jay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guerillajay/ricks-against-humanity/issues"
+  },
+  "homepage": "https://github.com/guerillajay/ricks-against-humanity#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dot-env": "^0.0.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
